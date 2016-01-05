@@ -1,0 +1,11 @@
+html, body{
+	height:100%;
+}
+
+.mainWell{
+
+	margin: 5% auto 0 auto;
+	height: 40%;
+	width: 30%;
+
+}
