@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bower": "",
+    "bootstrap":"",
     "history": "^1.17.0",
     "react": "^0.14.5",
     "react-dom": "^0.14.5",

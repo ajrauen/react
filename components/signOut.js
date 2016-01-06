@@ -7,7 +7,7 @@ const signOut  = React.createClass({
 		return (
 			<div className="well mainWell text-center">
 		    	<h1>You've successfully logged out!</h1>
-				<button onClick={this.props.onClick}>Log In</button>
+				<button className="btn btn-primary" onClick={this.props.onClick}>Log In</button>
 			</div>
 		)		
 	}

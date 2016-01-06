@@ -9,3 +9,26 @@ html, body{
 	width: 30%;
 
 }
+
+.studentList{
+	padding-top: 8px;
+}
+
+.desk{
+	background: url(../assets/desk.png);
+    background-size: 80px 80px;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.classroom{
+	background: url(../assets/floor.png);
+    background-repeat: repeat;
+    height:80vh;
+}
+
+.deskContainer{
+	width:80px;
+	height:80px;
+}
